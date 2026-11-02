@@ -6,5 +6,16 @@
       "Bash(bash */scripts/start-office.sh:*)",
       "Bash(bash */scripts/stop-office.sh:*)"
     ]
+  },
+  "extraKnownMarketplaces": {
+    "ecc": {
+      "source": {
+        "source": "github",
+        "repo": "affaan-m/ECC"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ecc@ecc": true
   }
 }
